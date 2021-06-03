@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A paire of gold-weights, or calumny, and its confederates, to be bound to the peace and good behaviour.</title>
+            <author>Belke, Thomas.</author>
+         </titleStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76356</idno><idno type="EEBO-CITATION">99861271</idno>
+  <idno type="VID">159001</idno>
+  <idno type="EEBO-PROQUEST">2248538774</idno>
+  
+            <idno type="STC">Wing B1792</idno>
+            <idno type="STC">Thomason E319_5</idno>
+            <idno type="STC">ESTC R200554</idno>
+            <idno type="PROQUEST">99861271</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861271e"/>
+            <note>(EEBO-TCP ; phase 2, no. A76356)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159001)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 52:E319[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A paire of gold-weights, or calumny, and its confederates, to be bound to the peace and good behaviour.</title>
+                  <author>Belke, Thomas.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on page 8: Thomas Belke.</note>
+                  <note>Caption title.</note>
+                  <note>Annotation on Thomason copy: "Jan: 27th 1645 [i.e. 1646]".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Clergy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:159001:1"/>
+            <head>A Paire of <hi>Gold-Weights,</hi> or <hi>Calumny,</hi> and its Confederates, to be bound to the <hi>Peace,</hi> and <hi>Good Behaviour.</hi>
+            </head>
+            <p>
+               <hi>Humbly sheweth,</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">T</seg>Hat whereas your Appellant, was by Processe of Law, Arrested personally to appear, at the Quar<g ref="char:EOLhyphen"/>ter Sessions to be holden for the East Division of the County of Kent, at the Castle of Canterbury, upon the 15. day of July next ensuing the date of the same Processe. And your Appellant in obedi<g ref="char:EOLhyphen"/>ence thereunto, did then, and there appear, and being called in open Court, an Indictment was forthwith read, wherein your Ap<g ref="char:EOLhyphen"/>pellant (with some others) were charged with breach of the Sta<g ref="char:EOLhyphen"/>tute of the 23. <hi>Eliz.</hi> for exercising Religious duties, at a house called <hi>Wylmonton,</hi> &amp;c. As in the said Indictment was set forth (as pretended) contrary to the tenure of the said Statute. Whereupon your Appellants Councell learned in the Law (for the clearing the letter, and scope of the said Statute therein, And for vindica<g ref="char:EOLhyphen"/>tion of the Innocency of your Appellant, from all colour of being brought within the penalty thereof) did avouch in open Court, That though the said Statute should be granted to be of force, as it was before the Repeal thereof, by both Houses of Parliament, as in the Preface to the <hi>Directory</hi> appeareth. Notwithstanding the same Indictment, would neither hold good, in matter, nor in form. That Statute no wayes barring in any, the exercising of re<g ref="char:EOLhyphen"/>ligious duties, nor reaching to any, but such as should refuse to hear Divine Service, &amp;c. as by the same appeareth. Howbeit, though there could be no colour found for bringing your Appel<g ref="char:EOLhyphen"/>lant within the compasse of the Penalty of the said Statute, or any branch thereof, whereupon the Indictment fell. Neverthelesse, <hi>Thomas Denne</hi> Esquire, Councellor at Law, then, and there being Judge, did immediately (no intervening Cause being given by your Appellant, nor alledged by him the said <hi>Thomas Denne</hi>) pro<g ref="char:EOLhyphen"/>nounce sentence against your Appellant, for the Peace, and Good-behaviour,
+<pb n="2" facs="tcp:159001:2"/>with such other prohibitions, and restrictions of your Appellants just Rights, and native Priviledges, as he pleased, in<g ref="char:EOLhyphen"/>joyning your Appellant, and his Sureties, to enter into Obliga<g ref="char:EOLhyphen"/>tions of vast summes of mony, to observe such promiscuous Con<g ref="char:EOLhyphen"/>ditions, as the said <hi>Thomas Denne,</hi> by his Arbitrary constructions should determine, which proceedings of the said <hi>Thomas Denne</hi> (as your Appellant verily believeth) were contrived, and prosecuted of set purpose, not onely to bring reproach, and contumely upon him in the open face of the County, but also to ensnare him ther<g ref="char:EOLhyphen"/>by, to the ruinating (as much as in him lay) of your Appellant, together with his wife and many small children. And, howbeit, your Appellant from that time to this instant, (for avoiding all colour of contempt, of such promiscuous, and (as he conceiveth) illegall Obligation) hath not onely forborn to exercise Religious duties at <hi>Wylmonton,</hi> according to the Prohibition annexed to the Obligation, but hath likewise (to the not a little sadding of his own, and others spirits, withdrawn himself from participation in Religious duties, with the Church of which he is a member, though their most frequent meetings have been, remote from the place aforesaid, notwithstanding, the designe, is still carried on, with a violent hand, against your Appellant and others, by new quoined wiles, and projects (as upon due examination, will be made notoriously manifest) tending not onely to the infringing of your Appellants and their interests, in those common Birth<g ref="char:EOLhyphen"/>rights of <hi>Magna Charta,</hi> The Petition of Right, &amp;c. handed to them, amongst the rest of His Majesties loyall Subjects, as a most unquestionable Refuge, against all illegall Exactions, and Arbi<g ref="char:EOLhyphen"/>trary practises, under what guize or Pretext soever. But tendeth as well to the bereaving of your Appellant and others, together with their wives and children) of all creature comforts, as casting him your Appellant with others into worse then Aegyptian bondage touching Spirituals. And since necessity, cannot be immured with<g ref="char:EOLhyphen"/>in the wals of silence, and considering that even, amongst Hea<g ref="char:EOLhyphen"/>thens, where Religion, life, libertie, or livelihood, of any freeborn Subject, hath been concerned (though dissenting from the gene<g ref="char:EOLhyphen"/>rall in matter of worship) there hath usually been a free way, and liberty for Appeal, and vindication. Much more, doth your Appel<g ref="char:EOLhyphen"/>lant humbly conceive it to be an unquestionable priviledge ap<g ref="char:EOLhyphen"/>propriated to him, to appeal to Suprem Power, &amp; highest Court of
+<pb n="3" facs="tcp:159001:2"/>when not onely one, but all of them, are most apparently driven at, and that by those who have wrang such successive pleasant Peals, and sang such alluring songs, of vindicating, Religion, Laws, and liberties; But the present face of things gives your Appellant but too much cause to fear, that (by the subtilties, and cunning practises of Trans<g ref="char:EOLhyphen"/>actors) those pleasant peals, and alluring songs, will be (by transmu<g ref="char:EOLhyphen"/>tation) turned into dolefull Alarmes, and Syrene charms, to lull asleep the loyall Subjects of this Kingdom, in the arms of vain hopes, the more promiscuously (under specious pretences of Indulgencie and tendernesse) to stifle in the wombe, and cause to be obortive, those fore-mentioned priviledges, of Religion, Laws, and Liberties. And since the Passing Bell of depopulation, to this Kingdom, seems to sound a dolefull Tone, in our ears, to summon us to perfect our Accounts, and present them before him, who is as well, the great heart Searcher, as the impartiall Judge to render (without respect of persons) to all according to their doings. And since your Appellant rescenteth it, as a peculiar, and common priviledge, as a Patient, to make his addresses to You, as the onely Phisitians (under God) by way of Appeal, to seek redresse touching present depressure under Insupportable Grievances, so to commend to your Respective, serious considerations, some Cau<g ref="char:EOLhyphen"/>tions to remove doubts, and to prevent future Enormities flowing in upon him, as well as the rest of the whole Kingdom. Wherefore, he is imboldned (humbly) to demonstrate, and unfold unto you, these his Apprehensions, and digestions ensuing. <hi>(viz.)</hi>
+            </p>
+            <p n="1">1. That the people may be put in full possession (according to the Rule, and prescript of the Scriptures) of their free, and common right of Electing their Ministers, and other officers in their severall Congre<g ref="char:EOLhyphen"/>gations. Till, it shall be made appear to be a thing but just, and equall, for one man to be compelled to accept of a wife of anothers choosing: or till, it shall be concluded not to be an intrenching upon the Sub<g ref="char:EOLhyphen"/>jects Priviledges, for a King by Writ, or Mandate, to appoint, and ob<g ref="char:EOLhyphen"/>trude, Knights, and Burgesses for the Parliament, in opposition to the peoples right of Election.</p>
+            <p n="2">2. That such summes of money, or other provisions, allotted to<g ref="char:EOLhyphen"/>wards the maintenance, of such as shall be imployed in Spirituall dis<g ref="char:EOLhyphen"/>pensations, be cast into a Common Bank, or Treasury, and thence di<g ref="char:EOLhyphen"/>stributed, in considerable proportions, according to the number of Communicants, or nature of their charge, as in equity shall be found most meet, and equall. Till, Gospel-Ministers can make good their rights to Tythes, or Till, good security be given, that the disputes
+<pb n="4" facs="tcp:159001:3"/>and controversies betwixt Ministers, and people, will not be an in<g ref="char:EOLhyphen"/>cessant wearisomnesse to Magistrates, by reason of such continu<g ref="char:EOLhyphen"/>all clamors, as will be occasioned thereby: or till there be better evi<g ref="char:EOLhyphen"/>dence then yet appears, that Ministers will not be drawn away from their people, even, as often, as the Loadstones of greater Livings pre<g ref="char:EOLhyphen"/>sent themselves un to them.</p>
+            <p n="3">3. That all railing <hi>Rabshakeis,</hi> and cursing <hi>Shemeis,</hi> may be prohi<g ref="char:EOLhyphen"/>bited the use, of Presse, and Pulpit, for venting their railing Rheto<g ref="char:EOLhyphen"/>rick, and venemous Invectives, to beget an odium (as well from the Magistracie, as the multitude) against those who are not lesse loyall, then the most loyall, to render to <hi>Caesar</hi> the things properly distinct to <hi>Caesar,</hi> and to God, the things properly distinct to God. Till, such time as occurrences will permit, an equivalent liberty, for the reproached, and traduced to vindicate their innocency, touching such aspersions, and calumnies daily cast upon them.</p>
+            <p n="4">4. That (since Christians enjoy not lesse freedome, under the <hi>Turks</hi> Dominion, and protection then under many Christian Governments) admonition may be given, that there be not too inconsiderate lashing out in generals, against that Government, as slavish, and tyrannicall. Till, we would be contented, to have the like reproach, cast upon the generall Government, and constitution of this Kingdom, for the Re<g ref="char:EOLhyphen"/>fractarines and malignitie of some few, that should surprize, and seaze upon some Port of this Kingdom, and there set up, and drive a Trade of Pyracie, in spight of the rest of the whole Nation.</p>
+            <p n="5">5. That, those Deliverances of Eighty eight, and the Gunpowder Treason, be not made use of, as incitations to inflame any, to seek re<g ref="char:EOLhyphen"/>venge of the Innocent; but rather to invite us all, to dig down deep, and exterpate Root, and Branch of that fatall Tree (of humane E<g ref="char:EOLhyphen"/>dicts, and Constitutions over the consciences, or estates of free-born Subjects, for dissenting in matter of Religion) whose accustomed fruits have been the same, or of the same affinity. Till, the remembrance of <hi>Rochel, Cales,</hi> and <hi>Lisbourn</hi> can be blotted out, and buried in oblivion. Or Till, it can be proved that casting on fuell is the proper means to lessen the flames, or powring on oyl to extinguish wild-fire.</p>
+            <p n="6">6. That, Magistrates on the Bench be cautionated, not to be too ve<g ref="char:EOLhyphen"/>hement to endeavour the cutting off (by pretence of humane Laws, nor Ministers in the Pulpit, too preposterous to give such large Com<g ref="char:EOLhyphen"/>mission, to spare neither man, woman, nor child, of free-born Subjects, though different in Religion, Till, those, who are not lesse powerfull, then politick, may (by some sleight) have their ears stopt from hearing
+<pb n="5" facs="tcp:159001:3"/>such Ecchoes, and their understandings darkned from Interpretation.</p>
+            <p n="7">7. That, the dolefull Spectacles, and gastly Monuments of so ma<g ref="char:EOLhyphen"/>ny hundred thousand of the Protestant profession, occasioned by Conscience binding and native infringing Lawes, and Edicts, may be seriously laid to heart, who, though we write Martyrs (and hope God writes so) yet others have written them Hereticks, factious, troublers of <hi>Israel,</hi> Schismaticks, Rebells, and Traytors; till there can be given a fuller stamp, or better warrant of lawfull Power, hu<g ref="char:EOLhyphen"/>mane or divine, then they have done or had for such their practices.</p>
+            <p n="8">8. That, Royall assent be endeavoured to be had, for the further strengthning the stroke, for totall repealing, and utter disanulling of that Conscience binding, if not (saving Gods election) soule mur<g ref="char:EOLhyphen"/>dring Law, which divine Providence hath guided the hearts of the Lords, and Commons in <hi>Parliament,</hi> to attempt the giving of it its deaths wound. Till, there can be produced justification of all the Re<g ref="char:EOLhyphen"/>bellions, depopulations, desolations, Massacres; and Murthers, (oc<g ref="char:EOLhyphen"/>casioned by Conscience binding Lawes, and native infringing E<g ref="char:EOLhyphen"/>dicts,) not only from righteous <hi>Abell,</hi> to <hi>Zachariaes,</hi> but thence up<g ref="char:EOLhyphen"/>ward to this very juncture of time.</p>
+            <p n="9">9. That, the whole <hi>English</hi> Nation, unanimously set to their help<g ref="char:EOLhyphen"/>ing hands, and hearts, to bury (in the Sepulcher of perpetuall obli<g ref="char:EOLhyphen"/>vion) this unnaturall monster of Civill, uncivill Warres, propoga<g ref="char:EOLhyphen"/>ted by the large contribution of the sinnes in generall (of this not long since flourishing, now even forlorne Kingdome) and blowne up to this monstrous bulk, and hideous shape, by the venemous and in<g ref="char:EOLhyphen"/>cendiarick breathes of those, the Master-peece of whose Art, is to conjure up stormes, that they may thereby the more cunningly shroud a Wolfe, under a Lamb-skin covering, and with lesse suspiti<g ref="char:EOLhyphen"/>on, and better hopes of successe, fish for the Pearles of their owne ambition, and sinister ends in the troubled Waters of the publick ruine. Till by impartiall Nationall inquisition there shall be unque<g ref="char:EOLhyphen"/>stionable evidence produced, for any to be set a part, and singled out as blamelesse, and so intitled to cast a stone at the sins of the times.</p>
+            <p n="10">10. That, the whole Nation, stand charged proportionably, ac<g ref="char:EOLhyphen"/>cording to each mans Estate reall, and personall, to make considera<g ref="char:EOLhyphen"/>ble reparations touching the vast expences, and detriments of the whole Kingdome occasioned by our unhappy divisions. Till, good security shall bee given (that if either party now in contestation, should so fully prevaile, to have the carving, and disposing of the Estates and Lives of the other, that they would not carve so liberally,
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:159001:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:159001:4"/>
+               <pb n="6" facs="tcp:159001:5"/>and lance so deepe, that the remedy would beget a more dangeros constitution, then the decease it selfe.</p>
+            <p n="11">11. That, that (most equall, and even, unparrald Act for the 400000. l. bee made the Platforme, and rules for advancing, all summes of Money, as well for present defrayments as for future, till a more equall way can be contrived, or till it can be manifested, that, that command, to doe as we would be done unto, (set forth in holy writ) doth not concerne our times.</p>
+            <p n="12">12. That, (unlesse God move the hearts of the three Estates of this Kingdome by mutuall assent thereunto) there be not overmuch ha<g ref="char:EOLhyphen"/>stinesse used, or necessity proposed, to establish new Lawes in civill matters, care being taken for the impartiall, and due execution of the old). Till, the invalidnesse of the old shall appeare to bee of ma<g ref="char:EOLhyphen"/>nifest inconsistency for our present Peace, and preservation.</p>
+            <p n="13">13. That, such an even ballancing of the <hi>Militia,</hi> and Judicature, and other weighty affaires of the Kingdome, bee mutually assented unto, that <hi>Caesar</hi> may distinguish an equivalent proper right, as inve<g ref="char:EOLhyphen"/>sted in him to preserve, and the Subjects alike equivalent proper power, as invested in them to defend. Till it bee decided, which Oath shall be implicit, the Kings of Coronation, or Subjects of Ale<g ref="char:EOLhyphen"/>giance, or till there be a more cleere definition then yet is manifest, where the disproportion will appeare, betwixt Prerogative written in Syphers, and Priviledges written in round Oes; Or, till it shall appeare to be but equall termes, for a naked Pygme to be thrust forth in open field, to encounter an armed <hi>Goliah.</hi>
+            </p>
+            <p n="14">14. That, for preventing the (otherwise) unavoydable Shipwrack of all our hopes, all Estates of people indeavour to binde to the Peace, and good behaviour, and to cast forth to the dunghill of contempt, Calumny, makebate, selfe-love, envy, and Ambition, with their confederates; and to set at liberty, and to receive in Cle<g ref="char:EOLhyphen"/>mency, seekpeace, brotherly love, Charity, and humility, with their Alyance, as proper Inmates and ingredients; and Antidotes, to worke the generall Pulse, and constitution of this Kingdome, to such a kindly and complying temper, that every one may endeavour to quench the flames, of our unnaturall divisions, and to turne each streame into its proper Channell, that the Inhabitants of this King<g ref="char:EOLhyphen"/>dome may againe, each one sit peaceably, under the shadow of his Vine of Birthright Priviledges. Till, it shall be on all hands conclu<g ref="char:EOLhyphen"/>ded, as an undeniable Article of Faith, that the King defireth not the
+<pb n="7" facs="tcp:159001:5"/>multiplication, but the dyminution of his Subjects. That the Nobles desire not to leave their large Patrimonies, and inherent Honours to their offspring, but to cast all into the throats of greedy Cormorants, and aspiring Parazites. And that the Commons are become so wan<g ref="char:EOLhyphen"/>ton, and devoyd of reason, to cast their Birth-right Priviledges into the arbitrary Lottery of unequall Taxes, and Monopolies.</p>
+            <p n="15">15. That, no reasonable Propositions of Accommodation be reje<g ref="char:EOLhyphen"/>cted, whereby such a Peace may bee concluded, as all may have a share in the benefit thereof, till it can bee made appeare, that, that party, which accepts of a reasonable Proposition from another; shall thereby weaken his own power, or lose a rationall friend (thats able to put the controversie out of dispute, by adding his power to either party) by accepting of what is just, and equall. Or, till it can bee demonstrated who they are (Conditions for premised considered) that would not as one man, mutually ingage themselves, to prevent Invasion by forraigne Forces, to suppresse Nationall Insurrections, and to calme domestick Dissentions.</p>
+            <p n="16">16. That, each Subject (rendring to <hi>Caesar,</hi> an active, or passive Obedience in Civill Rights, and maintaining and defending Autho<g ref="char:EOLhyphen"/>rity, and all that submit to what they shall tender in Spirituall mat<g ref="char:EOLhyphen"/>ters, in their owne quiet enjoying and practicing thereof, from vi<g ref="char:EOLhyphen"/>olation and disturbance of all men whatsoever) be left free, as by proper Prerogative from God invested in him) to imbark his soule in such a Vessell, of whose bottome he shall least doubt, and in whose Pylate he shall best confide. Till there be good satisfaction given, that the Issue of the contrary will not in all probability prove, the ruine of the greatest part of the Protestants through the world, or till there can bee a sufficient Ransome given, for all the Innocent blood, devastations, soule Rapes, and Shipwracks, occasioned in present, and by past times by Conscience binding Lawes; Or, till it can bee made appeare that not the preaching of the Word, but the dynt of the Sword is the meanes ordained for the conversion of the <hi>Jewes,</hi> and for the bringing in the fuller number of the <hi>Gentiles</hi> to the obe<g ref="char:EOLhyphen"/>dience of the Gospel, or till Satan and his instruments, being disap<g ref="char:EOLhyphen"/>pointed of their common Vewchee and last refuge, [Pretext of Reli<g ref="char:EOLhyphen"/>gion] for dividing Kingdomes, Cities, and Families in themselves, can quine (if it were possible) an other equivalent Stratagem to cause such Nationall, and domestick dissentions, and Civill Warres, as by stirring up such incessant variance, and intestine hatred in Kingdoms,
+<pb n="8" facs="tcp:159001:6"/>Cities, and Families successively to bite and devoure each other, till they have bin frequently consumed one of another, as by thus arm<g ref="char:EOLhyphen"/>ing the strongest party to determine in matter of Religion by the Sword of violence.</p>
+            <p n="17">17. That, there be a unanimous endeavour, as well by such as are in publick places, as those in private, that the Nerves &amp; Synues of true love, Christian harmony, and brotherly affection, may be strengthen<g ref="char:EOLhyphen"/>ed, and especially where dissenting in matter of Religion shall appear that there be diligent circumspection used, not to give any just cause of offence to a differing party; but as all tender the honour of God, and the promulgation of the truth (as they conceive) on their sides, so to conceive, and strive (for the better vindication of their Judge<g ref="char:EOLhyphen"/>ments) to out-strip, and excell each other, in all wayes of Christian correspondency, charity, peace, and concord. That none taking do<g ref="char:EOLhyphen"/>minion over the faith of their brethren, but so many as are of one mind (in matter of Religion) may walk by one, and the same Rule, without any prejudice, or evill surmizes towards any that are other<g ref="char:EOLhyphen"/>wise minded: That there may thereby (by the blessing of God) be a kindly foundation layed, for the growth and propagation of the Go<g ref="char:EOLhyphen"/>spel: That mercy, and truth may meet together; and righteousnesse, and peace, may kisse each other, in all our habitations. And that none attempt, Giant-like, to fight against their Maker, by anticipating the Lord of hoasts, or limiting the holy One of Israel (who calleth at all houres into his Vineyard) as being the alone Lord, and Master, before whom we shall stand, or fall. Till they shall be fortified against all fear of undergoing that finall sentence of, <hi>Go, ye cursed,</hi> or past all desire of participation of that joyfull voice, <hi>Come ye, blessed.</hi>
+            </p>
+            <closer/>
+            <postscript>
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <lb/>
+               <p>I commend this Appeal, and Demonstration, to your circumspect perusall, to mend and rectifie in form, for the more orderly and regu<g ref="char:EOLhyphen"/>lar presenting of it, to the King and Parliament.</p>
+               <closer>
+                  <signed>Yours in all Christian Obligations, Thomas Belke.</signed>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
